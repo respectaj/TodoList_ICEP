@@ -1,1 +1,1 @@
-# CampusNavigator
+# JayConnect & FutureArt website in progress
